@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-##Steps to run the application after cloning-
+## Steps to run the application after cloning-
 
 1. Go to OpenAI platform and generate OPENAI API key.
 2. Similarly generate Pinecone API Key
@@ -10,6 +10,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 6. Create two files .env and .env.local, and add both the API Keys to both of them. .env is for python and .env.local is for nextJS
 7. Then go to the load.ipynb, and run all cells as it is a jupyter notebook and running it would generate index and namespace in pinecone.
 8. Lastly run "npm run dev" to launch the application.
+
+### UI is still in progress.
 
 ## Getting Started
 
