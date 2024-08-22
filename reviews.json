@@ -1,0 +1,145 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Harris",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Harris is an excellent professor. Her lectures are clear, and she's always willing to help students.",
+        "institution": "University of Southern California"
+      },
+      {
+        "professor": "Dr. Michael Clark",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Good professor, but sometimes his explanations can be a bit hard to follow.",
+        "institution": "Massachusetts Institute of Technology"
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Dr. Johnson knows her stuff, but her classes are very challenging.",
+        "institution": "Stanford University"
+      },
+      {
+        "professor": "Dr. Robert Wilson",
+        "subject": "History",
+        "stars": 2,
+        "review": "Not very engaging, and the exams are difficult.",
+        "institution": "Harvard University"
+      },
+      {
+        "professor": "Dr. Linda Brown",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Fantastic professor! Makes chemistry fun and interesting.",
+        "institution": "California Institute of Technology"
+      },
+      {
+        "professor": "Dr. James Miller",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Very knowledgeable, but the grading is tough.",
+        "institution": "University of Chicago"
+      },
+      {
+        "professor": "Dr. Patricia Davis",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Dr. Davis is passionate about literature and it shows in her teaching.",
+        "institution": "Yale University"
+      },
+      {
+        "professor": "Dr. Christopher Garcia",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Interesting lectures, but the workload is heavy.",
+        "institution": "Princeton University"
+      },
+      {
+        "professor": "Dr. Jessica Martinez",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Engaging and informative. She really cares about her students.",
+        "institution": "Columbia University"
+      },
+      {
+        "professor": "Dr. Daniel Lee",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Thought-provoking lectures, but the material can be dense.",
+        "institution": "Duke University"
+      },
+      {
+        "professor": "Dr. Laura Anderson",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Amazing professor! Makes complex topics easy to understand.",
+        "institution": "University of California, Berkeley"
+      },
+      {
+        "professor": "Dr. Charles Thomas",
+        "subject": "Sociology",
+        "stars": 2,
+        "review": "Not very engaging and the exams are tricky.",
+        "institution": "New York University"
+      },
+      {
+        "professor": "Dr. Elizabeth Moore",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "Interesting material, but the lectures can be boring.",
+        "institution": "University of Pennsylvania"
+      },
+      {
+        "professor": "Dr. David Jackson",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Great professor, but the projects are very demanding.",
+        "institution": "Carnegie Mellon University"
+      },
+      {
+        "professor": "Dr. Amanda White",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Passionate about the subject and very supportive of students.",
+        "institution": "University of Michigan"
+      },
+      {
+        "professor": "Dr. Richard Martinez",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Dr. Martinez is a great musician and an even better teacher.",
+        "institution": "Juilliard School"
+      },
+      {
+        "professor": "Dr. Barbara Rodriguez",
+        "subject": "Law",
+        "stars": 4,
+        "review": "Very knowledgeable, but the exams are tough.",
+        "institution": "Harvard Law School"
+      },
+      {
+        "professor": "Dr. Steven Wilson",
+        "subject": "Art History",
+        "stars": 3,
+        "review": "Dr. Wilson's lectures are informative but a bit dry.",
+        "institution": "University of California, Los Angeles"
+      },
+      {
+        "professor": "Dr. Karen King",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Engaging lectures and real-world examples. Challenging, but rewarding.",
+        "institution": "University of Oxford"
+      },
+      {
+        "professor": "Dr. Thomas Scott",
+        "subject": "Computer Engineering",
+        "stars": 5,
+        "review": "One of the best professors I've ever had. Very supportive and knowledgeable.",
+        "institution": "Georgia Institute of Technology"
+      }
+    ]
+  }
+  
