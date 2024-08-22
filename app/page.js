@@ -153,7 +153,7 @@ const handleUrlSubmit = async (url) => {
     <Box
       className="flex flex-col items-center justify-center w-screen h-screen overflow-hidden"
       sx={{ 
-        backgroundColor: '#17153B', 
+        backgroundColor: '#000000', 
         overflow: 'hidden', 
         fontFamily: 'Inter, sans-serif' 
       }}
@@ -161,7 +161,7 @@ const handleUrlSubmit = async (url) => {
       <AppBar 
         position="static"
         sx={{
-          background: 'linear-gradient(90deg, #17153B 0%, #2E2A6A 100%)',
+          background: 'linear-gradient(90deg, #333842 0%, #1A2130 90%)',
           boxShadow: 'none',
           padding: '0 24px',
         }}
@@ -195,10 +195,10 @@ const handleUrlSubmit = async (url) => {
               variant="contained"
               sx={{
                 fontWeight: 'bold',
-                backgroundColor: '#872341',
+                backgroundColor: '#FF4191',
                 color: '#FFFFFF',
                 '&:hover': {
-                  backgroundColor: '#750E21',
+                  backgroundColor: '#E90074',
                 },
               }}
             >
@@ -252,8 +252,8 @@ const handleUrlSubmit = async (url) => {
               >
                 <Box
                   sx={{
-                    bgcolor: message.role === 'assistant' ? '#383A59' : '#872341',
-                    color: 'white',
+                    bgcolor: message.role === 'assistant' ? '#FFF078' : '#FF4191',
+                    color: message.role === 'assistant' ? 'black' : 'white',
                     borderRadius: '8px',
                     p: 2,
                     maxWidth: '75%',
@@ -286,9 +286,9 @@ const handleUrlSubmit = async (url) => {
               variant="contained"
               onClick={sendMessage}
               sx={{
-                backgroundColor: '#872341',
+                backgroundColor: '#FF4191',
                 '&:hover': {
-                  backgroundColor: '#750E21',
+                  backgroundColor: '#E90074',
                 },
                 borderRadius: '12px',
                 fontWeight: '500',
