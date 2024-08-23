@@ -354,7 +354,7 @@ export default function Home() {
             flexDirection: 'column',
             justifyContent: 'center',
             alignItems: 'center',
-            minHeight: '200px', // Ensure minimum height for vertical centering
+            minHeight: '200px', 
             padding: '24px 32px', // Increased padding for more space
           }}
         >
@@ -368,10 +368,10 @@ export default function Home() {
             fullWidth
             variant="outlined"
             InputLabelProps={{
-              style: { color: '#FFF078' }, // Match the theme color
+              style: { color: '#FFF078' }, 
             }}
             InputProps={{
-              style: { color: '#FFFFFF' }, // Text color for user input
+              style: { color: '#FFFFFF' }, 
             }}
             value={profPage}
             onChange={(e) => setProfPage(e.target.value)}
