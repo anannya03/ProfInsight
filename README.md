@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<img src="./images/chat.png" alt="ProfInsight Logo" width="600"/>
+<img src="./images/chat.png" alt="ProfInsight chat" width="600"/>
+<img src="./images/addProf.png" alt="ProfInsight Add Professor" width="600"/>
 
 ## Steps to run the application after cloning-
 
