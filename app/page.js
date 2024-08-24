@@ -49,13 +49,13 @@ export default function LandingPage() {
           justifyContent: 'center',
           height: 'calc(100vh - 64px)',
           paddingBottom: '64px',
-          color: 'white',
+          color: 'white',            
         }}
       >
-        <Typography variant="h2" sx={{ fontWeight: 'bold', textAlign: 'center' }}>
+        <Typography variant="h2" sx={{ fontWeight: 'bold', textAlign: 'center',  fontSize: { xs: '3rem', sm: '4rem'} }}>
           Revolutionize Your Professor Experience
         </Typography>
-        <Typography variant="h5" sx={{ marginTop: 2, color: "#FFF078", animation: 'fadeIn 3s ease-in-out infinite alternate' }}>
+        <Typography variant="h5" sx={{ marginTop: 4, textAlign: 'center', color: "#FFF078", animation: 'fadeIn 3s ease-in-out infinite alternate' }}>
           Chat Assistant · Add Professors · Smart Search
         </Typography>
 
