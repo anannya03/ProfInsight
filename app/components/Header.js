@@ -21,14 +21,6 @@ export default function Header({ onAddProfessorClick, onChatAssistantClick }) {
                     width: '100%',
                 }}
             >
-                {/* <Link href="/" passHref>
-        <Typography
-          sx={{ display: 'flex', alignItems: 'center', color: '#FFFFFF', fontWeight: 'bold', textDecoration: 'none', cursor: 'pointer' }}
-        >
-          <img src="/Logo.png" alt="Logo" style={{ height: '40px', marginRight: '8px' }} />
-          ProfInsight
-        </Typography>
-        </Link> */}
                 <Link href="/" passHref>
                     <Box
                         sx={{
